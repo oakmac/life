@@ -58,9 +58,9 @@ Certain vitamins are water-soluble and others are fat-soluble.
 | Thorne B Complex | per label | `$$$` | `essential` | `product matters` |
 | Taurine | 1,000mg | `$` | `recommended` | `generic ok` |
 | Alpha-GPC | 600mg | `$$` | `recommended` | `generic ok` |
-| Creatine | 10–15g | `$` | `recommended` | `generic ok` |
+| Creatine monohydrate | 10–15g | `$` | `recommended` | `generic ok` |
 | Vitamin D | 5,000 IU | `$` | `essential` | `generic ok` |
-| [Vitamin K](https://amzn.to/42n4KVX) | K1/K2 combo | `$` | `essential` | `product matters` |
+| Vitamin K | K1/K2 combo | `$` | `essential` | `product matters` |
 | Kirkland Multivitamin | per label | `$` | `why not` | `generic ok` |
 | CoQ10 (Ubiquinol) | 200mg | `$$$` | `recommended` | `product matters` |
 | Fish Oil | 2–3 capsules | `$$` | `essential` | `product matters` |
@@ -107,7 +107,7 @@ Certain vitamins are water-soluble and others are fat-soluble.
 
 ### Mid-Morning
 
-- **Creatine** — 10–15g · `$` · `recommended` · `generic ok`
+- **Creatine monohydrate** — 10–15g · `$` · `recommended` · `generic ok`
   - Powder mixed with yogurt, or pills
   - Recent research indicates brain health benefits at doses above 5g per day
   - Rated `recommended` because most people think of this as a gym supplement, but the evidence for cognitive and general health benefits is strong enough that it could reasonably be called `essential`.
@@ -151,10 +151,10 @@ Certain vitamins are water-soluble and others are fat-soluble.
 
 ### Evening
 
-- **Ashwagandha KSM-66** — 600mg · `$$` · `recommended` · `product matters`
+- [**Ashwagandha KSM-66**](https://amzn.to/4eCDES7) — 600mg · `$$` · `recommended` · `product matters`
   - KSM-66 is a specific patented root extract — the form used in most clinical research on ashwagandha
 
 - **Magnesium Glycinate** — 120mg · `$` · `essential` · `generic ok`
   - > ⚠️ Dosage is individual — you may want more or less. For example, my wife takes 2x what I take; if I took that much I have gastric issues. 120mg works well for me.
 
-- **L-Theanine** — 200mg · `$` · `why not` · `generic ok`
+- [**Nutricost L-Theanine 200mg**](https://amzn.to/3Qhdavw) — 200mg · `$` · `why not` · `generic ok`
