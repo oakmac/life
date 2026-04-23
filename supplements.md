@@ -156,12 +156,15 @@ Certain vitamins are water-soluble and others are fat-soluble.
 
 - **Magnesium Glycinate** — 120mg · `$` · `essential` · `generic ok`
   - > ⚠️ Dosage is individual — you may want more or less. For example, my wife takes 2x what I take; if I took that much I have gastric issues. 120mg works well for me.
+  - I often drink 1 or 2 LMNT packets per day, which also contain magnesium
 
 - [**Nutricost L-Theanine 200mg**](https://amzn.to/3Qhdavw) — 200mg · `$` · `why not` · `generic ok`
 
 ## Misc Notes
 
 * I don't take a calcium supplement because I get a lot of calcium from my diet (in particular: greek yogurt)
+* Lauren also takes [Thorne Hormone Advantage](https://amzn.to/3OFWBsr) (one pill in the morning) and
+  [Theralogix Ovasitol Inositol Powder](https://amzn.to/4mMiK5a) (twice daily)
 
 <hr>
 
