@@ -46,7 +46,7 @@ That said — I do feel better when I take this stack. And I take it every day. 
 Certain vitamins are water-soluble and others are fat-soluble.
 
 - **Water-soluble** — take anytime, just with water.
-- **Fat-soluble** — take with dietary fat, both for absorption and to prevent upset stomach. It doesn't need to be much — a handful of almonds is enough. If you've ever taken a supplement and felt stomach unease, you likely consumed a fat-soluble vitamin without food.
+- **Fat-soluble** — take with dietary fat, both for improved absorption and to prevent upset stomach. It doesn't need to be much — a handful of almonds is enough. If you've ever taken a supplement and felt stomach unease, you likely consumed a fat-soluble vitamin without food.
 
 ---
 
@@ -158,3 +158,11 @@ Certain vitamins are water-soluble and others are fat-soluble.
   - > ⚠️ Dosage is individual — you may want more or less. For example, my wife takes 2x what I take; if I took that much I have gastric issues. 120mg works well for me.
 
 - [**Nutricost L-Theanine 200mg**](https://amzn.to/3Qhdavw) — 200mg · `$` · `why not` · `generic ok`
+
+## Misc Notes
+
+* I don't take a calcium supplement because I get a lot of calcium from my diet (in particular: greek yogurt)
+
+<hr>
+
+© Chris Oakman — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
