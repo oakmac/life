@@ -1,6 +1,7 @@
 # Supplement Stack
 
-I am a 40-something healthy male. I am often asked about the supplements I take, so here it is documented. My wife also takes a similar stack.
+I am a healthy male in my 40s. I am often asked about the supplements I take,
+so here it is documented. My wife also takes a similar stack.
 
 ## Glossary
 
@@ -22,7 +23,9 @@ I am a 40-something healthy male. I am often asked about the supplements I take,
 
 ## Preface
 
-The supplement industry is a mess. They sell a lot of stuff that you don't need, at large margins, and often combining ingredients in weird ways. People are misinformed and are being marketed to.
+The supplement industry is a mess. They sell a lot of stuff that you don't
+need, at large margins, and often combining ingredients in weird ways. People
+are misinformed and are being marketed to.
 
 **Good example:** selling 1,000mg tablets of Vitamin C is silly.
 
@@ -57,7 +60,7 @@ Certain vitamins are water-soluble and others are fat-soluble.
 | Vitamin C | 500mg | `$` | `essential` | `generic ok` |
 | Thorne B Complex | per label | `$$$` | `essential` | `product matters` |
 | Taurine | 1,000mg | `$` | `recommended` | `generic ok` |
-| Alpha-GPC | 600mg | `$$` | `recommended` | `generic ok` |
+| Alpha-GPC | 300mg | `$$` | `recommended` | `generic ok` |
 | Creatine monohydrate | 10–15g | `$` | `recommended` | `generic ok` |
 | Vitamin D | 5,000 IU | `$` | `essential` | `generic ok` |
 | Vitamin K | K1/K2 combo | `$` | `essential` | `product matters` |
@@ -95,13 +98,14 @@ Certain vitamins are water-soluble and others are fat-soluble.
   - Antioxidant properties; reduces oxidative stress
   - Common ingredient in energy drinks for the non-stimulant energy and focus effect
 
-- [**Nutricost Alpha GPC 600mg**](https://amzn.to/3Qox73w) (L-alpha-glycerylphosphorylcholine) — 600mg · `$$` · `recommended` · `generic ok`
-  - 300mg in the morning, 300mg early afternoon — staggered for more consistent acetylcholine support throughout the day
-  - Most bioavailable form of choline, an essential nutrient most people under-eat (eggs are the main dietary source)
+- [**Nutricost Alpha GPC 300mg**](https://amzn.to/3Qox73w) (L-alpha-glycerylphosphorylcholine) — 300mg · `$$` · `recommended` · `generic ok`
+  - I take one pill (300mg) in the morning
+  - This is a bioavailable form of choline, an essential nutrient most people under-eat (eggs are the main dietary source)
   - Precursor to acetylcholine — your primary learning and memory neurotransmitter
   - Taken as a nootropic for focus and mental clarity
   - Acetylcholine is also key for muscle contraction; some evidence for power output
   - Critical for fat metabolism in the liver
+  - Since taking this regularly, I have noticed that I basically never crave eggs 🤷
 
 ---
 
@@ -114,7 +118,9 @@ Certain vitamins are water-soluble and others are fat-soluble.
 
 ---
 
-### Afternoon — with dietary fat
+### Afternoon — taken with dietary fat
+
+I take all of the below with some dietary fat in my stomach.
 
 - **Vitamin D** — 125mcg (5,000 IU) as D3 Cholecalciferol · `$` · `essential` · `generic ok`
   - Most people are deficient, particularly those who spend time indoors or live somewhere without year-round sun
@@ -145,7 +151,10 @@ Certain vitamins are water-soluble and others are fat-soluble.
 - [**Nordic Naturals Ultimate Omega**](https://amzn.to/4mSMUnq) — 2–3 capsules · `$$` · `essential` · `product matters`
   - EPA (Eicosapentaenoic Acid) 650mg
   - DHA (Docosahexaenoic Acid) 450mg
-  - Always store any fish oil in the fridge — fish oil oxidizes and goes rancid at room temperature
+  - ⚠️ **Always store any fish oil in the fridge** — these are polyunsaturated fatty acids — relatively unstable molecules that easily oxidize at room temperature
+  - EPA and DHA are the bioactive omega-3s — your body converts plant-based ALA into them very inefficiently (under 10%), so unless you eat fatty fish several times a week, you're likely deficient
+  - Anti-inflammatory; supports cardiovascular health (lowers triglycerides) and brain function (DHA is a structural component of brain tissue)
+  - Triglyceride form is better absorbed than ethyl ester form — Nordic Naturals uses triglyceride form, which is part of why it's worth the price
 
 ---
 
