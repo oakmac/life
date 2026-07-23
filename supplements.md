@@ -146,14 +146,11 @@ I take all of the below with some dietary fat in my stomach.
   - The RDA (600–800 IU) is widely considered too low; 5,000 IU is a common corrective/maintenance dose
   - Take with K2 — D mobilizes calcium, K2 directs it into bones rather than arteries
 
-- [**NOW Foods MK-7 Plus with K1 & MK-4**](https://amzn.to/42n4KVX) · `$` · `essential` · `product matters`
-  - A well-designed K supplement — most cheap products only include K1 or a single form of K2. Having all three in one capsule is the right approach.
-  - K1 as Phytonadione — 120mcg
-  - K2 as Menaquinone-4 (MK-4) — 360mcg
-  - K2 as Menaquinone-7 (MK-7) as MenaQ7® — 90mcg
-  - MenaQ7® is a patented, clinically studied form of MK-7 — the form used in most of the research on K2 and cardiovascular and bone health
-
-> **Note:** Always take Vitamin D and K together — they work synergistically in the body.
+- **Vitamin K** — [NOW Foods MK-7 Plus with K1 & MK-4](https://amzn.to/42n4KVX) · `$` · `essential` · `product matters`
+  - The other half of the Vitamin D note above. D pulls calcium in; K activates the proteins that put it into bone and keep it out of arterial walls. Taking D without K does half the job.
+  - **K1** (Phytonadione, 120mcg) works mostly in the liver, on blood clotting. **K2** is the one acting on bone and arteries — it's what you're really taking this for.
+  - Two forms of K2, and you want both: **MK-4** (360mcg) clears within hours, **MK-7** (90mcg) has a multi-day half-life. One capsule gives you a spike plus sustained coverage. Most cheap products include only one form.
+  - MK-7 here is MenaQ7® — the patented form used in most of the research on K2 and cardiovascular and bone health
 
 - **Kirkland Multivitamin** · `$` · `why not` · `generic ok`
   - Inexpensive; covers bases for trace nutrients you might miss in your normal diet (selenium, chromium, molybdenum, etc.)
