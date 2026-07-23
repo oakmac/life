@@ -67,9 +67,19 @@ Certain vitamins are water-soluble and others are fat-soluble.
 | Kirkland Multivitamin | per label | `$` | `why not` | `generic ok` |
 | CoQ10 (Ubiquinol) | 200mg | `$$$` | `recommended` | `product matters` |
 | Fish Oil | 2–3 capsules | `$$` | `essential` | `product matters` |
-| Ashwagandha KSM-66 | 600mg | `$$` | `recommended` | `product matters` |
+| Ashwagandha KSM-66 | 600mg — *cycled, not daily* | `$$` | `recommended` | `product matters` |
 | Magnesium Glycinate | 120mg | `$` | `essential` | `generic ok` |
 | L-Theanine | 200mg | `$` | `why not` | `generic ok` |
+
+---
+
+## A Note on Pill Fatigue
+
+That table is a lot of items, and seeing it all at once can feel ridiculous if you're just starting out.
+
+Practically, I use a "three times a day, 7 days a week" plastic pill organizer — morning, afternoon (with food), evening. Filling it once a week means I'm not thinking about it the rest of the time.
+
+It doesn't bother me because I know exactly what every pill is and why it's there. But some people get **pill fatigue**, and that's a real reason people quit. If that's you: take far less than what's listed here. You'll be totally fine. Pick a few, be consistent, and don't stress about the total number of pills.
 
 ---
 
@@ -88,7 +98,8 @@ Certain vitamins are water-soluble and others are fat-soluble.
 - [**Thorne Basic B Complex**](https://amzn.to/4sPJ3ZG) · `$$$` · `essential` · `product matters`
   - Water-soluble
   - More expensive, but in bioavailable form — key ingredients like B12 (Methylcobalamin), B6 (Pyridoxal 5'-Phosphate), B2 (Riboflavin 5'-Phosphate), and Folate (L-5-MTHF) are the active forms your body can use directly, unlike the cheaper synthetic forms in most B vitamins
-  - Makes your pee yellow due to riboflavin
+  - Makes your urine yellow due to riboflavin (think: Big Bird)
+    - This is harmless. It's just the excess riboflavin you didn't absorb passing through, not a sign of anything wrong.
   - Per capsule: Biotin 400mcg · Choline (Citrate) 28mg · Folate (L-5-MTHF) 667mcg DFE · B1 (Thiamin HCl) 110mg · B12 (Methylcobalamin) 400mcg · B2 (Riboflavin 5'-Phosphate) 10mg · B3 (Niacin) 10mg · B3 (Niacinamide) 130mg · B5 (Pantothenic Acid) 110mg · B6 (Pyridoxal 5'-Phosphate) 10mg
 
 - [**Nutricost Taurine 1000mg**](https://amzn.to/4sTEj58) — 1,000mg · `$` · `recommended` · `generic ok`
@@ -112,8 +123,12 @@ Certain vitamins are water-soluble and others are fat-soluble.
 ### Mid-Morning
 
 - **Creatine monohydrate** — 10–15g · `$` · `recommended` · `generic ok`
-  - Powder mixed with yogurt, or pills
-  - Recent research indicates brain health benefits at doses above 5g per day
+  - Powder mixed with yogurt, or lots of pills
+  - **On the "5g per day" number:** everything you read online says 5g, mostly because 5g is what was *studied*. It traces back to the original creatine research in the early 1990s, and essentially every study since has copied that protocol. The evidence base is enormous *at 5g* and thin everywhere else, which makes the number look more validated than it is.
+  - It's not arbitrary, though — muscle has a hard saturation ceiling, and once you're topped off the extra is just expensive urine (see the Vitamin C note above). **For muscle, 5g is plenty.**
+  - **The brain is a different problem.** Creatine crosses the blood-brain barrier slowly, and 5g/day barely moves brain creatine levels in imaging studies. The research showing cognitive effects has needed considerably higher doses. The standard dose was derived from muscle and then quietly applied to a completely different target.
+  - I feel fine taking 10–15g daily. It is not a major effect, but I do notice it more than just 5g a day, and I don't have GI issues at that dose. Different people will respond differently here, so try something and see what works.
+  - ⚠️ It may take a few weeks of consistent daily use before you feel anything. It won't happen after one day.
   - Rated `recommended` because most people think of this as a gym supplement, but the evidence for cognitive and general health benefits is strong enough that it could reasonably be called `essential`.
 
 ---
@@ -151,7 +166,7 @@ I take all of the below with some dietary fat in my stomach.
 - [**Nordic Naturals Ultimate Omega**](https://amzn.to/4mSMUnq) — 2–3 capsules · `$$` · `essential` · `product matters`
   - EPA (Eicosapentaenoic Acid) 650mg
   - DHA (Docosahexaenoic Acid) 450mg
-  - ⚠️ **Always store any fish oil in the fridge** — these are polyunsaturated fatty acids — relatively unstable molecules that easily oxidize at room temperature
+  - ⚠️ **Always store any fish oil in the refrigerator** — these are polyunsaturated fatty acids — relatively unstable molecules that easily oxidize at room temperature
   - EPA and DHA are the bioactive omega-3s — your body converts plant-based ALA into them very inefficiently (under 10%), so unless you eat fatty fish several times a week, you're likely deficient
   - Anti-inflammatory; supports cardiovascular health (lowers triglycerides) and brain function (DHA is a structural component of brain tissue)
   - Triglyceride form is better absorbed than ethyl ester form — Nordic Naturals uses triglyceride form, which is part of why it's worth the price
@@ -162,6 +177,8 @@ I take all of the below with some dietary fat in my stomach.
 
 - [**Ashwagandha KSM-66**](https://amzn.to/4eCDES7) — 600mg · `$$` · `recommended` · `product matters`
   - KSM-66 is a specific patented root extract — the form used in most clinical research on ashwagandha
+  - ⚠️ **This is the one thing in the stack I do not take daily.** I cycle it — roughly a few weeks on, then a few weeks off.
+  - Most of the clinical research on ashwagandha runs 8–12 weeks, so continuous year-round use isn't really studied. Cycling keeps me inside the window that's actually been looked at.
 
 - **Magnesium Glycinate** — 120mg · `$` · `essential` · `generic ok`
   - > ⚠️ Dosage is individual — you may want more or less. For example, my wife takes 2x what I take; if I took that much I have gastric issues. 120mg works well for me.
@@ -172,6 +189,8 @@ I take all of the below with some dietary fat in my stomach.
 ## Misc Notes
 
 * I don't take a calcium supplement because I get a lot of calcium from my diet (in particular: greek yogurt)
+* Ashwagandha is the exception to "I take this every day" — see the cycling note above
+* Lauren does not take ashwagandha — she doesn't like how it makes her feel. Another reminder that responses vary; if something doesn't agree with you, drop it.
 * Lauren also takes [Thorne Hormone Advantage](https://amzn.to/3OFWBsr) (one pill in the morning) and
   [Theralogix Ovasitol Inositol Powder](https://amzn.to/4mMiK5a) (twice daily)
 
